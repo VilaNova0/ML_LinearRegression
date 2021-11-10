@@ -2,4 +2,4 @@
 
 Trabalho sobre regressão linear, curso MC886 (Aprendizado de Máquina).
 
-> [JupyterNotebook](ML_LinearRegression.ipynb)
+> [Jupyter Notebook](ML_LinearRegression.ipynb)
